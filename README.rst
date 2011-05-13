@@ -5,5 +5,5 @@
 内容
 =====
 
--eclipse.epf Eclipseのプリファレンスファイル
--.hgrc Mercurialの設定ファイル
+- eclipse.epf Eclipseのプリファレンスファイル
+- .hgrc Mercurialの設定ファイル
