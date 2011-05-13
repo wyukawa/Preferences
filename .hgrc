@@ -1,0 +1,11 @@
+[extensions]
+color = 
+transplant = 
+graphlog = 
+rebase = 
+record = 
+mq = 
+
+[ui]
+username = wyukawa
+#merge = p4merge
